@@ -1,3 +1,5 @@
+This project is licensed under the Apache Software License, v. 2 except as noted otherwise in the LICENSE file.
+
 ##SHINE(SAP HANA Interactive Education)
 
 In this blog I will share details on one of our highly successful and widely consumed Native HANA Application, SHINE (SAP HANA Interactive Education) demo content.     
