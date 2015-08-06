@@ -7,7 +7,7 @@ In this blog I will share details on one of our highly successful and widely con
 I will also share details of how you can import the SHINE delivery unit and view the various applications delivered with the demo content as well as explore the code to understand how you can starting building your own native HANA based applications.   
 
 #####What is SHINE – A Brief Overview and History?   
-**SAP HANA Interactive Education (SHINE)** is an Education Content to deploy, learn and develop applications from SAP HANA studio which runs on SAP HANA Application Services (XS Engine) within SAP HANA Platform. SHINE enables new SAP HANA developers to quickly learn and develop applications running on top of SAP HANA Platform. SHINE content is designed and built upon EPM (Enterprise Procurement Model) framework developed by SAP and it includes all the data models, tables, views, dashboards etc. with a real enterprise use case.
+**SAP HANA INteractive Education (SHINE)** is an education content used to learn, develop and deploy SAP HANA Application Services (XS Engine) based applications within the SAP HANA Platform. The SHINE content is designed and built on EPM (Enterprise Procurement Model) framework and includes all the data models, tables, views, dashboards etc. with a real enterprise use case.
 
 ![SHINE](./images/SHINE1.png  "SHINE")
 
