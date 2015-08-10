@@ -58,7 +58,6 @@ See if generate time data and create Synonyms is Green else click Generate Time 
 ![Check Prerequisite](./images/CheckPrereqisite.png  "Check Prerequisite")
 
 
-
 You can explore Various scenarios and HANA features.   
 You can find list of tutorials **[here](/Tutorials/README.md)** 
 
