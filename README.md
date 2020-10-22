@@ -91,3 +91,8 @@ The following are some of the features and scenarios  delivered with the SHINE d
 made-better-with-business-rules-in-sap-hana
 " target="_blank">**SAP HANA Developer Guide, Creating Decision Tables**</a>  
 - For more information refer to the SAP HANA Developer Guide:<a href="http://help.sap.com/hana/SAP_HANA_Developer_Guide_en.pdf" target="_blank">**SAP HANA DEVELOPER GUIDE**</a>
+
+## License
+
+Copyright (c) 2017-2020 SAP SE or an SAP affiliate company. All rights reserved.
+This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
