@@ -2,6 +2,8 @@ This project is licensed under the Apache Software License, v. 2 except as noted
 
 ## SHINE(SAP HANA Interactive Education)
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/hana-shine)](https://api.reuse.software/info/github.com/SAP-samples/hana-shine)
+
 In this blog I will share details on one of our highly successful and widely consumed Native HANA Application, SHINE (SAP HANA Interactive Education) demo content.     
 
 I will also share details of how you can import the SHINE delivery unit and view the various applications delivered with the demo content as well as explore the code to understand how you can starting building your own native HANA based applications.   
