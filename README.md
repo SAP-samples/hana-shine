@@ -1,4 +1,8 @@
-This project is licensed under the Apache Software License, v. 2 except as noted otherwise in the LICENSE file.
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+
+# Important Notice
+This public repository is read-only and no longer maintained. For the latest sample code repositories, visit the [SAP Samples](https://github.com/SAP-samples) organization.
+
 
 ## SHINE(SAP HANA Interactive Education)
 
