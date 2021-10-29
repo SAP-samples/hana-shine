@@ -19,7 +19,7 @@ I will also share details of how you can import the SHINE delivery unit and view
 - Add new scenarios, features & capabilities to enhance the content
    
 ##### Getting started with SHINE:
-1.	Download The SAP HANA Interactive Education (SHINE) delivery unit (DU)  from [HCO_DEMOCONTENT.tgz](./HCO_DEMOCONTENT.tgz "SHINE DU")
+1.	Download The SAP HANA Interactive Education (SHINE) delivery unit (DU)  from [HCO_DEMOCONTENT.tgz](https://github.com/SAP-samples/hana-shine/releases/download/v2.0.0/HCO_DEMOCONTENT_200.tgz "SHINE DU")
 
 2.	Click on `File->Import->` `SAP HANA Content -> Delivery Unit`Select your System and click on client and select the DU where you downloaded and import the DU.
 
