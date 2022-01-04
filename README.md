@@ -1,4 +1,4 @@
-## SHINE(SAP HANA Interactive Education)
+# SHINE(SAP HANA Interactive Education)
 
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/hana-shine)](https://api.reuse.software/info/github.com/SAP-samples/hana-shine)
 
@@ -6,20 +6,20 @@ In this blog I will share details on one of our highly successful and widely con
 
 I will also share details of how you can import the SHINE delivery unit and view the various applications delivered with the demo content as well as explore the code to understand how you can starting building your own native HANA based applications.   
 
-##### What is SHINE – A Brief Overview and History?   
+## What is SHINE – A Brief Overview and History?   
 **SAP HANA INteractive Education (SHINE)** is an education content used to learn, develop and deploy SAP HANA Application Services (XS Engine) based applications within the SAP HANA Platform. The SHINE content is designed and built on EPM (Enterprise Procurement Model) framework and includes all the data models, tables, views, dashboards etc. with a real enterprise use case.
 
 ![SHINE](./images/SHINE1.png  "SHINE")
 
-##### SHINE – Goal & Objectives:
+### SHINE – Goal & Objectives:
 
 
 - Enable a baseline model which can be used in SAP HANA educational materials where customers, partners and developers can use the content for self-study to learn the basic skills to develop and run their applications on top of SAP HANA Platform
 - Offer a source of best practice implementation examples, improving the quality of education content with real world business use case scenarios.
 - Add new scenarios, features & capabilities to enhance the content
    
-##### Getting started with SHINE:
-1.	Download The SAP HANA Interactive Education (SHINE) delivery unit (DU)  from [HCO_DEMOCONTENT.tgz](https://github.com/SAP-samples/hana-shine/releases/download/v2.0.0/HCO_DEMOCONTENT_200.tgz "SHINE DU")
+## Getting started with SHINE:
+1.	Download The SAP HANA Interactive Education (SHINE) Delivery Unit (DU) for HANA 2.0 SPS05 and above" from [HCO_DEMOCONTENT-1.205.0.tgz](https://github.com/SAP-samples/hana-shine/releases/download/v2.5.0/HCO_DEMOCONTENT-1.205.0.tgz "SHINE Delivery Unit for HANA 2.0 SPS05 and above"). SHINE DU for HANA 2.0 SPS03 and SPS04 can be downloaded from [HCO_DEMOCONTENT_200.tgz](https://github.com/SAP-samples/hana-shine/releases/download/v2.0.0/HCO_DEMOCONTENT_200.tgz "SHINE Delivery Unit for HANA 2.0 SPS03 and SPS04")
 
 2.	Click on `File->Import->` `SAP HANA Content -> Delivery Unit`Select your System and click on client and select the DU where you downloaded and import the DU.
 
@@ -85,7 +85,7 @@ The following are some of the features and scenarios  delivered with the SHINE d
 
 
 
-### References 
+## References 
 - <a href="http://www.saphana.com/docs/DOC-3773" target="_blank">**Core Data Services**</a>
 - Rules on HANA:<a href="http://scn.sap.com/community/developer-center/hana/blog/2013/10/11/big-data-decisionmaking-
 made-better-with-business-rules-in-sap-hana
